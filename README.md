@@ -1,1 +1,1 @@
-# Testing Wagtail
+# Hooray Wagtail
